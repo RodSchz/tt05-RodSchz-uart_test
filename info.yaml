@@ -21,7 +21,7 @@ yaml_version: 4
 #
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
-  author:       "Rodolfo Sanchez"      # Your name
+  author:       "Rodolfo Sanchez Fraga"      # Your name
   title:        "Prueba de TT5"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   description:  "Prueba de uso"      # Short description of what your project does
