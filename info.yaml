@@ -41,12 +41,12 @@ documentation:
       
 # A description of what the inputs do (e.g. red button, SPI CLK, SPI MOSI, etc).
   inputs:               
-    IN6 - Load | TX
-    IN7 - Output enable
+    - IN6 - Load | TX
+    - IN7 - Output enable
 # A description of what the outputs do (e.g. status LED, SPI MISO, etc)
   outputs:
-    OUT0 - Output enable indicator
-    OUT1 - Load | TX indicator
+    - OUT0 - Output enable indicator
+    - OUT1 - Load | TX indicator
 
 # A description of what the bidirectional I/O pins do (e.g. I2C SDA, I2C SCL, etc)
   bidirectional:
